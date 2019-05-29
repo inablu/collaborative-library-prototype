@@ -1,10 +1,12 @@
 # COLLABORATIVE LIBRARY PROTOTYPING
 
 Demo website https://hybrid-publishing-group.github.io/cos-library/
-Our website https://inablu.github.io/collaborative-library-prototype
+
+--> Our website https://inablu.github.io/collaborative-library-prototype
 
 Sample Zotero group https://www.zotero.org/groups/1838445/o-s
-Our Zotero group https://www.zotero.org/groups/2301411/openglam_digibib2019
+
+--> Our Zotero group https://www.zotero.org/groups/2301411/openglam_digibib2019
 
 Question, need help? See the wiki and issues above on the repository or DM on Twitter https://twitter.com/mrchristian99
 
@@ -46,7 +48,11 @@ Save.
 
 You will be presented with an API key number, copy this and keep it in a text editor. If you need to get hold of your key again you can find it in the address bar on your browser of your 'key edit' page. Example key https://www.zotero.org/settings/keys/edit/mSXXZZUo4xiNPM0tQ0XXXXX
 
+--> Our key https://www.zotero.org/settings/keys/edit/4czM1cYW3mEct1A14gfY7oE1
+
 5. Next in Zotero we need to access a 'collection' in a 'group', https://www.zotero.org/groups/ If you don't have a 'collection' already create one online, go to group page and find the 'Group Library' link in your online group and top left you can click the button to add a 'collection'. Once you have chosen your 'collection' navigate to its address online in your group, like so https://www.zotero.org/groups/1838445/o-s/items/collectionKey/BHE6RI6Z
+
+--> Our collection https://www.zotero.org/groups/2301411/openglam_digibib2019/items/collectionKey/87SAP2KW
 
 There are two parts that you need from this URL to connect your collection to Github-pages. The group number and the collection key. As you can see from the sample address above these will be 'group=1838445' and 'collection key=BHE6RI6Z'.
 
