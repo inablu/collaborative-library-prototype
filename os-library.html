@@ -141,7 +141,12 @@ var processData = function(inData) {
 
 
     /* gets the collection from zotero */
- $.getJSON('https://api.zotero.org/groups/1838445/collections/ZKDWKM8S/items?key=mS6PZZUo4xiNPM0tQ0ars7sD&limit=100&sort=title', function(incomingData) {
+
+/* https://www.zotero.org/settings/keys/edit/4czM1cYW3mEct1A14gfY7oE1
+https://www.zotero.org/groups/2301411/openglam_digibib2019/items/collectionKey/87SAP2KW */
+
+
+ $.getJSON('https://api.zotero.org/groups/2301411/collections/87SAP2KW/items?key=4czM1cYW3mEct1A14gfY7oE1&limit=100&sort=title', function(incomingData) {
      /* if the query succeeds, the response will be available as the variable “data”: */
      /* K8F8FGKJ = os-library in Zotero group
      /* this variable is sent to the template above */
