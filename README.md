@@ -1,8 +1,10 @@
 # COLLABORATIVE LIBRARY PROTOTYPING
 
 Demo website https://hybrid-publishing-group.github.io/cos-library/
+Our website https://inablu.github.io/collaborative-library-prototype
 
 Sample Zotero group https://www.zotero.org/groups/1838445/o-s
+Our Zotero group https://www.zotero.org/groups/2301411/openglam_digibib2019
 
 Question, need help? See the wiki and issues above on the repository or DM on Twitter https://twitter.com/mrchristian99
 
