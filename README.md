@@ -72,7 +72,7 @@ Next in 'Finishing up' will be to connect the other sample Zotero collection and
 
 ### Finishing up
 
-
+TBC
 
 ### How it all works
 
@@ -87,7 +87,6 @@ Next in 'Finishing up' will be to connect the other sample Zotero collection and
 
 
 ### Prototyping
-
 
 
 
