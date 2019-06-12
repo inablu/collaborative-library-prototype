@@ -16,7 +16,7 @@ Question, need help? See the wiki and issues above on the repository or DM on Tw
 
 ### What you'll get
 
-The following steps will enable you to create a website using Github-pages from a Zotero group. If all goes well you will have a website running in less than 30 minutes. Promise :-)
+The following steps will enable you to create a website using Github-pages from a Zotero group. If all goes well you will have a website running in less than 30 minutes. Promise :-) :-)
 
 ### Before you start
 
