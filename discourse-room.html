@@ -114,9 +114,8 @@ var processData = function(inData) {
     return inData;
 }
 
-
     /* gets the collection from zotero */
- $.getJSON('https://api.zotero.org/groups/1838445/collections/MA9C4EEC/items?key=mS6PZZUo4xiNPM0tQ0ars7sD&limit=100&sort=title', function(incomingData) {
+ $.getJSON('https://https://api.zotero.org/groups/2301411/collections/87SAP2KW/items?key=4czM1cYW3mEct1A14gfY7oE1&limit=100&sort=title', function(incomingData) {
      /* if the query succeeds, the response will be available as the variable “data”: */
      /* this variable is sent to the template above */
         var processedData = processData(incomingData);
@@ -129,14 +128,14 @@ var processData = function(inData) {
 
 <div class="container">
   <h1><a href="index.html">Collab_Lib &mdash; α prototype</a></h1>
-  <h2>Reading Room Remix &mdash; 'Software Citation'</h2>
+  <h2>Reading Room Remix &mdash; 'Notes only'</h2>
 
 <div class="text-welcome">
-    <p>&mdash; a study of key issues and questions with illustrative excerpts (using the notes and comments functions in Zotero to create a gloss on headline issues in the area of software citation)</p>
+    <p>&mdash; the collection only showing notes that contributors have made - pure gloss</p>
 </div>
 
 <div id="items-container">
 
 </div>
 
-<p style="text-align: center; margin-top: 600px; padding-top: 30px;"><a href="https://www.zotero.org/groups/1838445" target="_blank">join (through the Zotero group)</a></p>
+<p style="text-align: center; margin-top: 600px; padding-top: 30px;"><a href="https://www.zotero.org/groups/2301411" target="_blank">join (through the Zotero group)</a></p>
